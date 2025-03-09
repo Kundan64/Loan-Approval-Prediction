@@ -2,6 +2,8 @@
 
 Predicting loan approvals based on applicant details using Exploratory Data Analysis (EDA) and machine learning.
 
+**Dataset link :** https://drive.google.com/file/d/1zSoU7VT4gMHIjiCMtlUSoNvSDUGibgmC/view?usp=sharing
+
 **Project Overview**
 
 This project analyzes loan application data to identify key factors influencing loan approval decisions. Using EDA and visualization techniques, we uncover patterns in applicant demographics, financial details, and credit history.
